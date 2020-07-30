@@ -35,6 +35,6 @@ print('tokenized sentence')
 print(tokenized_sentences)
 
 ##Showing Graphic kemunculuan
-#kemunculan.plot(30,cumulative=False)
-#plt.show()
+kemunculan.plot(30,cumulative=False)
+plt.show()
 
